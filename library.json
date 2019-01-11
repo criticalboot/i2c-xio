@@ -1,0 +1,32 @@
+{
+  "name": "i2c-xio",
+  "keywords": "i2c-xio, I2C 40-Channel I/O Expansion, GPIO Expander, PCA9698",
+  "description": "Arduino Library for I2C 40-Channel I/O Expander PCA9698 ",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/IowaScaledEngineering/i2c-xio.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Iowa Scaled Engineering",
+      "email": " support@iascaled.com",
+      "url": "http://www.iascaled.com",
+      "maintainer": true
+    },
+    {
+      "name": "Michael Petersen",
+      "email": "miles@mnetcs.com"
+    }, 
+    {
+      "name": "Nathan D. Holmes"
+    }
+  ],
+  "dependencies":
+  {
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
